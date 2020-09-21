@@ -11,7 +11,7 @@ public class App
     public static void main( String[] args )
     {
 	LOG.info("HI");
-        String message= "Hello World!" ;
+        String message= "Hello vamshi|||!" ;
         LOG.debug(message+" Will be Printed On Debug");
         LOG.info(message +"will be printed on info");
         LOG.info("Print something");
