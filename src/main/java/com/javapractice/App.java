@@ -12,7 +12,7 @@ public class App
     {
         String message= "Hello World!" ;
         LOG.debug(message+" Will be Printed On Debug");
-        LOG.info(message+""), message, p0, p1, p2, p3, p4, p5, p6, p7);
+        LOG.info(message +"will be printed on info")
         System.out.println(message);
     }
 }
