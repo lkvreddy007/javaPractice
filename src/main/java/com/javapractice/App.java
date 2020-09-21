@@ -13,7 +13,8 @@ public class App
 	LOG.info("HI");
         String message= "Hello World!" ;
         LOG.debug(message+" Will be Printed On Debug");
-        LOG.info(message +"will be printed on info")
+        LOG.info(message +"will be printed on info");
+        LOG.info("Print something");
         System.out.println(message);
     }
 }
