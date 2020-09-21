@@ -10,6 +10,7 @@ public class App
 	private static final Logger LOG= LogManager.getLogger(App.class);
     public static void main( String[] args )
     {
+	LOG.info("HI");
         String message= "Hello World!" ;
         LOG.debug(message+" Will be Printed On Debug");
         LOG.info(message +"will be printed on info")
